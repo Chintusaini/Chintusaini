@@ -43,15 +43,13 @@ Building interactive web experiences, backend tools, and cross-platform apps.
 | :--- | :--- | :--- | :--- |
 | **[GitHub Portfolio](https://github.com/Chintusaini/github-portfoliyo)** | Responsive, no-build developer portfolio powered by the GitHub REST API | HTML, CSS, JS | [Live Demo](https://github-portfoliyo.vercel.app/?user=Chintusaini) |
 | **[Chintu Enterprises (3D Web)](https://github.com/Chintusaini/my-1st-web)** | 3D glassmorphic portfolio & business site with a Node.js/Express admin CMS | HTML, CSS, JS, Node.js | [Live Demo](https://my-1st-web-silk.vercel.app) |
-| **[Snack Game](https://github.com/Chintusaini/snackgame.py)** | Classic snake/snack game project | Python | [Repository](https://github.com/Chintusaini/snackgame.py) |
+| **[Snack Game](https://github.com/Chintusaini/snackgame.py)** | Classic Snake game built with Python | Python | [Repository](https://github.com/Chintusaini/snackgame.py) |
 
 ---
 
 ### GitHub Stats
 
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Chintusaini&show_icons=true&theme=tokyonight&hide_border=true" alt="Chintu Saini GitHub Stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chintusaini&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Chintusaini&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true" alt="Chintu Saini GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chintusaini&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
